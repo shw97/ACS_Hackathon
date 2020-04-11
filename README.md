@@ -21,6 +21,12 @@ Screenshots of the data set are as follows:
 - Probabilties of Positive Result
 - 
 ![Image of table](https://github.com/shw97/ACS_Hackathon/blob/master/Proababilties%20of%20positive%20result.png)
+- Accuracy of model
+- 
+![Image of table](https://github.com/shw97/ACS_Hackathon/blob/master/accuracy.png)
+- Prediction of Vulnerability Index
+- 
+![Image of table](https://github.com/shw97/ACS_Hackathon/blob/master/prediction.png)
 - Vulnerability Plot
 -
 ![Image of table](https://github.com/shw97/ACS_Hackathon/blob/master/Vulnerability%20Plot.png)
